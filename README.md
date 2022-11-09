@@ -9,6 +9,6 @@
 
 4) The <b>.table-hover</b> class adds a hover effect (grey background color) on table rows, The <b>.table-borderless</b> class removes borders from the table.
 
-5) <a href="https://www.w3schools.com/bootstrap5/bootstrap_colors.php">Contextual classes</a> can be used to color the whole table <b>(<table>)</b>,  the table rows <b>(<tr>)</b> or table cells <b>(<td>)</b>.
+5) <a href="https://www.w3schools.com/bootstrap5/bootstrap_colors.php">Contextual classes</a> can be used to color the whole table <b>(table>)</b>,  the table rows <b>(tr>)</b> or table cells <b>(td>)</b>.
 
 6) The <b>.table-responsive</b> class adds a scrollbar to the table when needed (when it is too big horizontally).
